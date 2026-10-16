@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=cakkac&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=full-stack%20pet-projects&descAlignY=60&descSize=18" alt="header" />
 
 <p align="center">
-  <a href="https://t.me/cakkac"><img src="https://img.shields.io/badge/Telegram-@cakkac-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" alt="Telegram"></a>
   <img src="https://komarev.com/ghpvc/?username=cakkac1dev&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile views">
   <a href="https://github.com/cakkac1dev?tab=followers"><img src="https://img.shields.io/github/followers/cakkac1dev?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27&label=FOLLOWERS" alt="Followers"></a>
 </p>
